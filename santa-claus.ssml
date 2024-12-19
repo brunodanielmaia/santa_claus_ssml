@@ -1,0 +1,106 @@
+<speak>
+  <break time="1000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+2st">
+        Olá, Filipe.
+      </prosody>
+    </voice>
+  </prosody>
+  <break time="1000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        Sei que você tem sido um menino muito bom este ano.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="4000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        Ouvi dizer que você ajudou a mamãe a arrumar a mesa,
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="3000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        guardou seus brinquedos
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="1000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        e até ajudou a cuidar da sua irmãzinha, Laura.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="4000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+2st">
+        Que menino incrível você é!
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="2000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+2st">
+        Tô muito orgulhoso de você, Filipe.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="2000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        Continue assim,
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="1000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        espalhando alegria e bondade por onde passar.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="3000ms"/>
+    <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        Eu recebi sua carta e já pedi para os meus duendes prepararem seu presente.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="5000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+1st">
+        Vou deixar seu boneco cadres debaixo da árvore.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="3000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+2st">
+        Um abraço do Papai Noel.
+      </prosody>
+    </voice>
+  </prosody>
+    <break time="2000ms"/>
+  <prosody rate="medium" volume="x-loud">
+    <voice name="pt-BR-Standard-A">
+      <prosody pitch="+3st">
+        Ho, ho, ho! Feliz Natal!
+      </prosody>
+    </voice>
+  </prosody>
+</speak>
